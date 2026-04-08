@@ -11,7 +11,7 @@ A streamlined, bloat-free alternative to the original [GlosSITarget.exe](https:/
 
 ## Installation and Usage
 1. First, install the original [GlosSI](https://github.com/Alia5/GlosSI) normally.
-2. Replace the original `GlosSITarget.exe` file in the installation folder with this modified `GlosSITarget.exe`.
+2. Replace the original `GlosSITarget.exe` in the installation folder by moving the modified version along with all its accompanying files into the directory.
 3. You can use `GlosSIconfig` just as you normally would.
 4. You will still appear as playing that specific game on Steam.
 5. While in-game, use `Alt+Tab` to switch to the `GlosSITarget.exe` window.
